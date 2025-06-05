@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Zoho Form</title>
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      height: 100%;
+    }
+    iframe {
+      border: none;
+      width: 100%;
+      height: 100%;
+      display: block;
+    }
+  </style>
+</head>
+<body>
+  <iframe
+    aria-label="Digital Tools, Stress Management, and Employee Performance in the Banking Industry in Southwest Nigeria"
+    src="https://forms.zohopublic.com/ezekiel1/form/DigitalToolsStressManagementandEmployeePerformance/formperma/JLZ-obNAk62s2Ui7bx5XNyXZiMcV7e-AezfX_lQsxio">
+  </iframe>
+</body>
+</html>
